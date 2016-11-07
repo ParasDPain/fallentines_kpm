@@ -1,0 +1,8 @@
+{
+  "name": "fallentines",
+  "version": 1.0,
+  "startup": "main.js",
+  "help": [
+    [ "{{commandPrefix}}fallen", "Returns information about Fallentines" ]
+  ]
+}
